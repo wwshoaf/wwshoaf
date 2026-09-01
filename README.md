@@ -6,7 +6,7 @@ I'm a **Computer Science MS candidate at West Virginia University** (4.0 GPA, gr
 with a BS in Biology from Ohio State.
 
 My work combines **machine learning, biological data, and clinical context**.
-Before grad school I worked as a Nursing Assistant doing direct patient care in ICU, Trauma, and Oncology units, and I completed molecular biology and bacteriology research in a plant pathology lab as an undergraduate. 
+Before grad school I worked as a Nursing Assistant doing direct patient care in ICU, Trauma, and Oncology units, and I completed molecular biology and bacteriology research in plant pathology labs as an undergraduate. 
 
 I'm targeting **bioinformatics, clinical data science, and health informatics roles**.
 
@@ -51,7 +51,7 @@ Full-stack web application for yoga studio management built with Flask and MySQL
 
 **Languages:** Python · SQL · Java · C · HTML · JavaScript  
 **ML / Data:** Scikit-learn · PyTorch · PySpark · NumPy · Pandas · Matplotlib · XGBoost  
-**Tools:** Git · Linux · Apache Spark · Jupyter · Azure · Docker *(building)*  
+**Tools:** Git · Linux · Apache Spark · Jupyter · Azure · Docker · Claude · Copilot *(building)*  
 **Web:** React · Flask · Node.js   
 
 ---
