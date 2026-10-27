@@ -22,6 +22,13 @@ detection — with choropleth mapping of underreporting hotspots and a 2023–20
 to rule out demographic confounds.
 `PySpark` `Apache Spark` `Scikit-learn` `GeoPandas` `Census API`
 
+### [Heart Failure Mortality Prediction — Cost-Aware Neural Network](https://github.com/wwshoaf/Heart-Failure-Neural-Network)
+MLP trained on the UCI Heart Failure Clinical Records dataset (n=299) to predict 30-day
+mortality. Four controlled experiments evaluate minority oversampling, cost-sensitive decision
+thresholds (FN:FP ratios 5–20), L2/dropout regularization, and feature standardization —
+each assessed under stratified 5-fold CV with paired t-tests across folds.
+`Python` `PyTorch` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `SciPy`
+
 ---
 
 ### [Mushroom Edibility Classification: Tabular ML vs. ResNet18](https://github.com/wwshoaf/Mushroom-Edibiility-Classification-Method-Comparison)
