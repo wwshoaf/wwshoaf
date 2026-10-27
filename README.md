@@ -78,5 +78,5 @@ Full-stack web application for yoga studio management built with Flask and MySQL
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-william--shoaf-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/william-shoaf)
-[![Email](https://img.shields.io/badge/Email-wws00002@mix.wvu.edu-D14836?style=flat&logo=gmail)](mailto:wws00002@mix.wvu.edu)
+[![Email](https://img.shields.io/badge/Email-wws00002@mix.wvu.edu-D14836?style=flat&logo=gmail)](mailto:wshoaf3@gmail.com)
 
