@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a certified Yoga Instructor and I compete in Muay Thai!
 
-I'm a **Computer Science MS candidate at West Virginia University** (4.0 GPA, graduating 2026)
+I'm a **Computer Science MS candidate at West Virginia University** (3.91 GPA, graduating December 2026)
 with a BS in Biology from Ohio State.
 
 My work combines **machine learning, biological data, and clinical context**.
