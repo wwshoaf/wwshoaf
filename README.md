@@ -1,4 +1,4 @@
-## Hi there, I'm Will Shoaf 👋
+## Welcome! I'm William Shoaf 👋
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a certified Yoga Instructor and I compete in Muay Thai!
 
